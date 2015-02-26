@@ -8,7 +8,7 @@ ENV = Environment(loader=FileSystemLoader('templates'))
 
 
 def get_params():
-    params = {'title': 'Upstream, OpenStack Project',
+    params = {'title': 'Downstream, Internal Project',
               'font_color': 'Red'}
     return params
 
